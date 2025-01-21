@@ -1,4 +1,6 @@
+<!--crie uma pasta e abra ela no seu vscode, dentro do vscode crie 2 index e um style, index.html e index.js em seguida crie o style.css-->
 <!--se voce usar o "!" ele digita sozinho o corpo html-->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
